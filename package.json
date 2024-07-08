@@ -26,8 +26,7 @@
     "webpack-cli": "^5.1.4"
   },
   "scripts": {
-    "test": "jest --env=jsdom",
-    "build": "webpack"
+    "test": "jest --env=jsdom"
   },
   "author": "",
   "license": "ISC"
